@@ -53,3 +53,6 @@ To run the app, you will need to have the following installed on your machine:
 * Expo CLI
 
 
+Inspired by hirist job portal
+
+
