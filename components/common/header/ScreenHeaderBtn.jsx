@@ -10,11 +10,7 @@ const ScreenHeaderBtn = ({ iconUrl, dimension, handlePress }) => {
         resizeMode='cover'
         style={styles.btnImg(dimension)}
       />
-      <Image
-          source={icons.heartOutline}
-          resizeMode='contain'
-          style={styles.likeBtnImage}
-        />
+     
     </TouchableOpacity>
   );
 };
